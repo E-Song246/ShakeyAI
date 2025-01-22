@@ -1,6 +1,6 @@
-# Shakespeare LLM: A Stylistic Imitation Model
+# Shakey AI: A Stylistic Imitation Model
 
-Welcome to the **Shakespeare LLM** project! This repository contains an advanced language model designed to generate stylistic imitations of William Shakespeare's works. By leveraging cutting-edge machine learning techniques and the Bard's timeless texts, this project aims to recreate the distinctive style of Shakespeare's comedies, tragedies, histories, and poems.
+Welcome to the **Shakey AI** project! This repository contains an advanced language model designed to generate stylistic imitations of William Shakespeare's works. By leveraging cutting-edge machine learning techniques and the Bard's timeless texts, this project aims to recreate the distinctive style of Shakespeare's comedies, tragedies, histories, and poems.
 
 ---
 
