@@ -16,40 +16,6 @@ Welcome to the **Shakespeare LLM** project! This repository contains an advanced
 
 ---
 
-## **Project Structure**
-
-```
-ShakespeareLLM/
-├── data/
-│   ├── comedies/
-│   │   ├── play1.txt
-│   │   ├── play2.txt
-│   │   └── ...
-│   ├── tragedies/
-│   ├── histories/
-│   ├── poetry/
-│   └── tokenized/
-│       ├── comedies.pt
-│       ├── tragedies.pt
-│       └── ...
-├── models/
-│   ├── transformer_model.py
-│   ├── lstm_model.py
-│   └── ...
-├── notebooks/
-│   ├── preprocessing.ipynb
-│   ├── training.ipynb
-│   └── evaluation.ipynb
-├── scripts/
-│   ├── preprocess_data.py
-│   ├── train_model.py
-│   ├── generate_text.py
-│   └── evaluate_model.py
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
 ---
 
 ## **Getting Started**
